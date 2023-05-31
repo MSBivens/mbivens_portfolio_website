@@ -1,5 +1,4 @@
-import NavigationDots from "./NavigationDots";
-import SocialMedia from "./SocialMedia";
-import Navbar from "./Navbar/Navbar";
+import AppWrap from "./AppWrap";
+import MotionWrap from "./MotionWrap";
 
-export { NavigationDots, SocialMedia, Navbar };
+export { AppWrap, MotionWrap };
